@@ -1,2 +1,3 @@
-print('hello')i
-ok done now
+
+print('hello')
+i m adding this line from gitmergetool 
